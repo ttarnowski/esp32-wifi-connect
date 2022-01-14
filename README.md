@@ -1,7 +1,7 @@
 # Connect ESP32 to WiFi
 
 This repository has been created as a part of the YouTube video:
-[Connect ESP32 to WiFi](https://youtu.be/fVcru1pq9TY)
+[Connect ESP32 to WiFi](https://youtu.be/aAG0bp0Q-y4)
 
 The code connects to WiFi using one of two methods (click on of the links to see the code):
 
